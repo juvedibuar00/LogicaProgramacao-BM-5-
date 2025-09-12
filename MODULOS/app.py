@@ -1,8 +1,8 @@
 
-import soma
+import MODULOS.operacao as operacao
 import saudacao
 
 
-print(soma.soma(2, 3))
+print(operacao.soma(2, 3))
 
 print(saudacao.saudadao("Juvenaldo"))

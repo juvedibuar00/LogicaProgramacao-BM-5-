@@ -1,2 +1,5 @@
-def saudadao(nome):
-    return f"Olá, {nome}! Seja bem-vindo(a)!"
+# def saudadao(nome):
+
+from FUNCOES import saudacao
+
+print(saudacao("Juvenaldo"))
